@@ -9,5 +9,27 @@
 @import url(../styles/blocks/lead/__caption/lead__caption.css);
 @import url(../styles/blocks/lead/__image/lead__image.css);
 
+@import url(../styles/blocks/intro/intro.css);
+@import url(../styles/blocks/intro/__list/intro__list.css);
+@import url(../styles/blocks/intro/__text/intro__text.css);
+@import url(../styles/blocks/intro/__title/intro__title.css);
+
 @import url(../styles/blocks/photo-grid/photo-grid.css);
 @import url(../styles/blocks/photo-grid/__item/photo-grid__item.css);
+
+@import url(../styles/blocks/places/places.css);
+@import url(../styles/blocks/place/place.css);
+@import url(../styles/blocks/place/__image/place__image.css);
+@import url(../styles/blocks/place/__paragraph/place__paragraph.css);
+@import url(../styles/blocks/place/__text/place__text.css);
+@import url(../styles/blocks/place/__title/place__title.css);
+
+@import url(../styles/blocks/cover/cover.css);
+@import url(../styles/blocks/cover/__image/cover__image.css);
+@import url(../styles/blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../styles/blocks/cover/__title/cover__title.css);
+
+@import url(../styles/blocks/footer/footer.css);
+@import url(../styles/blocks/footer/__copyright/footer__copyright.css);
+@import url(../styles/blocks/footer/__link/footer__link.css);
+@import url(../styles/blocks/footer/__links/footer__links.css);
