@@ -1,9 +1,10 @@
-.place__text {
+.place__website {
   margin: 0;
+  align-self: end;
 }
 
 @media (max-width:425px) {
-  .place__text {
+  .place__website {
     padding: 0 5%;
   }
 }
