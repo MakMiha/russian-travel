@@ -16,4 +16,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на сайт на github](https://makmiha.github.io/russian-travel/)
+* [Ссылка на сайт на github](https://makmiha.github.io/russian-travel/index.html)
